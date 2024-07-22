@@ -1,6 +1,6 @@
-# agado
+# Agado
 
-A new Flutter project.
+Track your training sessions, without worrying about your data.
 
 ## Getting Started
 
